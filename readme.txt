@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-I have create a new branch.
+Creating a nex branch is quick AND simple.
